@@ -1,0 +1,199 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Dr Pepper",
+        "brand": "Dr Pepper",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 150,
+        "carbs": 40,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 55,
+        "sugar": 40,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/750/119/834/3731/front_es.4.full.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Coca-Cola",
+        "brand": "Coca-Cola",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 140,
+        "carbs": 39,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 45,
+        "sugar": 39,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/544/900/021/4799/front_es.224.full.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Pepsi",
+        "brand": "Pepsi",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 150,
+        "carbs": 41,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 30,
+        "sugar": 41,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/841/049/430/0050/front_es.27.full.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Sprite",
+        "brand": "Coca-Cola",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 140,
+        "carbs": 38,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 65,
+        "sugar": 38,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/544/900/000/6561/front_es.11.full.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Fanta Orange",
+        "brand": "Coca-Cola",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 160,
+        "carbs": 44,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 50,
+        "sugar": 44,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/544/900/001/1527/front_es.263.full.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Mountain Dew",
+        "brand": "Pepsi",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 170,
+        "carbs": 46,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 60,
+        "sugar": 46,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/611/125/242/1254/front_en.25.full.jpg"
+      },
+      {
+        "id": 7,
+        "name": "7UP",
+        "brand": "Dr Pepper",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 140,
+        "carbs": 38,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 50,
+        "sugar": 38,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/87177756/front_es.43.full.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Barq's Root Beer",
+        "brand": "Coca-Cola",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 160,
+        "carbs": 45,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 60,
+        "sugar": 45,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/073/762/806/4502/front_en.6.400.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Dr Pepper & Cream Soda",
+        "brand": "Dr Pepper",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 170,
+        "carbs": 45,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 55,
+        "sugar": 45,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/073/762/806/4502/front_en.6.400.jpg"
+      },
+      {
+        "id": 10,
+        "name": "A&W Root Beer",
+        "brand": "A&W",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 160,
+        "carbs": 44,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 55,
+        "sugar": 44,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/073/762/806/4502/front_en.6.400.jpg"
+      }
+    ],
+  
+    "nutritionists": [
+      {
+        "id": 1,
+        "name": "Dr. Ana Pérez",
+        "specialty": "Pérdida de peso",
+        "experience": 10,
+        "email": "ana.perez@example.com",
+        "phone": "123-456-7890"
+      },
+      {
+        "id": 2,
+        "name": "Dr. Luis González",
+        "specialty": "Nutrición deportiva",
+        "experience": 7,
+        "email": "luis.gonzalez@example.com",
+        "phone": "987-654-3210"
+      }
+    ],
+    "healthrisk": [
+      {
+        "title": "Altos niveles de ácido fosfórico",
+        "description": "Los altos niveles de ácido fosfórico puede ocasionar descalcificación y cálculos renales"
+      },
+      {
+        "title": "Aumento de peso",
+        "description": "El alto contenido de azúcar favorece el aumento de peso, y si se llegan a alcanzar niveles de sobrepeso y obesidad, se aumenta el riesgo de desarrollar enfermedades crónicas no transmisibles."
+      },
+      {
+        "title": "Altos niveles de ácido fosfórico",
+        "description": "Los altos niveles de ácido fosfórico puede ocasionar descalcificación y cálculos renales"
+      },
+      {
+        "title": "Altos niveles de ácido fosfórico",
+        "description": "Los altos niveles de ácido fosfórico puede ocasionar descalcificación y cálculos renales"
+      },
+      {
+        "title": "Altos niveles de ácido fosfórico",
+        "description": "Los altos niveles de ácido fosfórico puede ocasionar descalcificación y cálculos renales"
+      }
+    ]
+  
+  
+  }
+  
+  
